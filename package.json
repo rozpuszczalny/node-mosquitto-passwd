@@ -1,0 +1,22 @@
+{
+  "name": "mosquitto-passwd",
+  "version": "1.0.0",
+  "description": "Creates mosquitto_passwd file entries using only node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rozpuszczalny/node-mosquitto-passwd.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"*.test.js\""
+  },
+  "keywords": [
+    "mosquitto",
+    "mosquitto_passwd"
+  ],
+  "author": "Tomasz Domański",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
