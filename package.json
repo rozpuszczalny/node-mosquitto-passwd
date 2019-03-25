@@ -7,6 +7,7 @@
     "url": "https://github.com/rozpuszczalny/node-mosquitto-passwd.git"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "mocha \"*.test.js\""
   },
