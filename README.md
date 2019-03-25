@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rozpuszczalny/node-mosquitto-passwd.svg?branch=master)](https://travis-ci.org/rozpuszczalny/node-mosquitto-passwd) [![npm version](https://badge.fury.io/js/mosquitto-passwd.svg)](https://badge.fury.io/js/mosquitto-passwd)
+[![Build Status](https://travis-ci.org/rozpuszczalny/node-mosquitto-passwd.svg?branch=master)](https://travis-ci.org/rozpuszczalny/node-mosquitto-passwd) [![Coverage Status](https://coveralls.io/repos/github/rozpuszczalny/node-mosquitto-passwd/badge.svg?branch=master)](https://coveralls.io/github/rozpuszczalny/node-mosquitto-passwd?branch=master) [![npm version](https://badge.fury.io/js/mosquitto-passwd.svg)](https://badge.fury.io/js/mosquitto-passwd) 
 
 # mosquitto-passwd
 
